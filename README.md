@@ -34,7 +34,7 @@ This portfolio showcases who I am, what I do, and the kind of projects I’ve wo
 ## 📬 Contact
 - **Email:** adityasharma14april@gmail.com
 - **LinkedIn:** http://www.linkedin.com/in/aditya-s-540aa9367 
-- **GitHub:** 
+- **GitHub:** https://github.com/adityacloud-18
 
 ---
 
